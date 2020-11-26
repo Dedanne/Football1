@@ -14,7 +14,7 @@ struct Player {
 	char show;
 };
 
-
+//proba
 
 Player*** p;
 
